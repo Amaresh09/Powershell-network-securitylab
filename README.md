@@ -1,5 +1,4 @@
 # Powershell-network-securitylab
-# PowerShell Network & Security Lab
 
 ## Overview
 This repository documents an academic lab focused on using PowerShell for
